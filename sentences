@@ -104,5 +104,8 @@ local sentences = {
     "my friend told me he was going to hang a bulldog the bulldog is our mascot",
     "come back",
     "y leave",
+    "[player], you're sus",
+    "hey [player], stop being sus",
+    "[player], your mom is nice",
 }
 return sentences
