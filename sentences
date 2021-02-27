@@ -107,5 +107,7 @@ local sentences = {
     "[player], you're sus",
     "hey [player], stop being sus",
     "[player], your mom is nice",
+    "OH NO!!! I'M",
+    "[player], you are edgy",
 }
 return sentences
