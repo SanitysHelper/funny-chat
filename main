@@ -3,4 +3,4 @@ local message = sentences[math.random(1, #sentences)]:gsub("%[player%]", functio
     return game.Players:GetPlayers()[math.random(1,#game.Players:GetPlayers())].Name
 end)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message,"All")
-print(message)
+print(mesasge)
