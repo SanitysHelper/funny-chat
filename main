@@ -1,3 +1,4 @@
 local sentences = loadstring(game:HttpGet("https://raw.githubusercontent.com/SanitysHelper/funny-chat/main/sentences"))()
 local message = sentences[math.random(1, #sentences)]
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message,"All")
+print(mesasge)
