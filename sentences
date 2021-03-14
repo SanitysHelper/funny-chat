@@ -111,6 +111,6 @@ local sentences = {
     "[player], you are edgy",
     "mic up [player]",
     "Slim Shady is in my closet (oh no) oh no",
-    "Slim Shady is in my house (He's here) oh no",
+    "Slim Shady is in my house (He's here) oh no"
 }
 return sentences
