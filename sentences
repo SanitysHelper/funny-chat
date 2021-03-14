@@ -111,6 +111,17 @@ local sentences = {
     "[player], you are edgy",
     "mic up [player]",
     "Slim Shady is in my closet (oh no) oh no",
-    "Slim Shady is in my house (He's here) oh no"
+    "Slim Shady is in my house (He's here) oh no",
+    "don't make me say bad word",
+    "i will punish your dog",
+    "8 is the number eight",
+    "[player] is trash",
+    "AHHHHHHHHH",
+    "Wall-E",
+    "Penguin power - ultimate summon",
+    "OMG POKEMON",
+    "fight me noob",
+    "i like robuc",
+    "BOBUX"
 }
 return sentences
